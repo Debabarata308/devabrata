@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": " Ability to create websites and applications that adapt smoothly to various screen sizes and devices using techniques like media queries and flexible layouts."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Experienced backend developer with a strong focus on Node.js and building scalable, efficient server-side applications. I specialize in crafting robust APIs. "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Understanding user interface (UI) and user experience (UX) principles to create intuitive, user-friendly designs that enhance usability and accessibility."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "As a Webflow developer, my approach centers on leveraging the platform's intuitive visual interface to craft stunning websites but exceed client expectations. "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/anethesiaimage.png",
+      "title": "AnethesiaOne",
+      "description": "The ultimate mission of Anesthesia One is to serve as the one interactive, patient catered resource for all your perioperative anaesthesia needs. Multiple medical websites and mobile apps currently exist. Few of these websites and mobile apps are specifically designed for anesthesiologists. ",
+      "link": "View In Link",
+      "site":"https://www.anesthesiaone.com/"
+    },
+    {
+      "id": "2",
+      "src": "./img/MYDUMMYTICKET_png.png",
+      "title": "MyDummyTicket",
+      "description": "The main goal of a trip should be to strengthen ties with loved ones, close friends, and the wider world. It ought to broaden our perspectives, soften our hearts, and expand our minds to the fullest. Nonetheless, travelling has grown more tiresome in the busy, fast-paced world of today. ",
+      "link": "View In Link",
+      "site":"https://mydummyticket.com/"
+    },
+    {
+      "id": "3",
+      "src": "./img/book_project_png.png",
+      "title": "Justmedicalbook",
+      "description": "We Just Medical Books take an oath – “JUST” to supply / distribute Original Medical Books and student Medical Instruments.We came into existence in 2022 to mark ourselves as a leading Medical Books and student Instruments supplier in India",
+      "link": "View In Link",
+      "site":"https://justmedicalbooks.com/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
