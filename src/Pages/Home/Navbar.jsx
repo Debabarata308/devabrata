@@ -3,7 +3,8 @@ import { Link } from "react-scroll";
 
 function Navbar() {
   const [navActive, setNavActive] = useState(false);
-  const PDF_FILE_URL = "http://localhost:3000/Debabrata_Sahoo_Mern_CV.pdf";
+  const PDF_FILE_URL =
+    "https://devabrata.vercel.app/Debabrata_Sahoo_Mern_CV.pdf";
   const toggleNav = () => {
     setNavActive(!navActive);
   };
