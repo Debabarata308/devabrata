@@ -25,11 +25,6 @@ export default function AboutMe() {
             proficient in integrating various APIs and third-party services to
             enhance functionality and user experience.
           </p>
-          <p className="hero--section-description">
-            So if you're in need of a new website or just looking to revamp your
-            current online presence, I'd love to chat and see how I can help.
-            Let's bring your website dreams to reality together!.
-          </p>
           <p className="hero--section-description">Here are my main skills:</p>
           <div className="image_folder">
             <div className="image">
